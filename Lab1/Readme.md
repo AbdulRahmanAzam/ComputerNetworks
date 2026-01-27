@@ -35,18 +35,22 @@ path?
 <img width="1908" height="1030" alt="image" src="https://github.com/user-attachments/assets/1c5e88fb-3f96-458c-bbdb-29b635bde2da" />
 
 
-# 7) A ping to 192.168.0.2 works but a ping to the machine’s name “blue machine” fails. What could be
-wrong?
+# 7) A ping to 192.168.0.2 works but a ping to the machine’s name “blue machine” fails. What could be wrong?
+the dns not working properly, hostname not registereed, since ping works -> network is fine the issue is name resolution
 
 
 # 8) Which type of cable will you use to connect in a normal home installation?
+straight ethernet cable, i will be using for normal home networks.
 
 
-# 9) Can you connect a Switch to another Switch or a router to a PC using a straight- through cable?
-Explain your answer.
+# 9) Can you connect a Switch to another Switch or a router to a PC using a straight- through cable? Explain your answer.
+becase of new technology, ethernet cable can be used for modern switches and routers, which transmit and receive pairs.
 
+# 10)   Write a brief report on your home network or any organizational network including topology, 1 page max).
+Star Topology is used in my home, all the devices are connected through central wireless router. and the router is connected to ISP modem and acts as the gattewat for all network traffic.
 
-# 10)   Write a brief report on your home network or any organizational network including topology, 1 page
-max).
+router provided DHCP services, which automatically assigns IP address to devices. Wired connections use Ethernet cables and WiFi for mobility
+
+network used private IP addressing and NAT to allow multiple devices to access the internet through a single public IP. 
 
 
