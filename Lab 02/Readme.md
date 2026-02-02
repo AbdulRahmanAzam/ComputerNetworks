@@ -1,4 +1,4 @@
-Task 1 Demo: [](Video 1)
+Task 1 Demo: [https://youtu.be/U3sNUQiTSnA](Video 1)
 
 Task 2 Demo: [](Video 2)
 
