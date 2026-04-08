@@ -5,7 +5,7 @@ Simulates DNS name resolution with Root, TLD, and Authoritative servers.
 Demonstrates iterative & recursive resolution, DNS message format,
 caching with auto-flush, and real DNS record retrieval.
 
-Student: [YOUR NAME]  |  ID: [YOUR ID]  |  Section: [YOUR SECTION]
+Student: Abdul Rahman Azam  |  ID: 23k-0061  |  Section: BAI 6A
 """
 
 import struct
