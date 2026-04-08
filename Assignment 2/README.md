@@ -1,5 +1,8 @@
 # DNS Lookup Simulator - CN Assignment 2
 
+# Demo Video:
+www.youtube.com/watch?v=v3wnFQOtUHY
+
 ## How to Run
 
 ### Prerequisites
