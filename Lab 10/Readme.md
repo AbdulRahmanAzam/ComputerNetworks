@@ -6,8 +6,11 @@ Task 2 is mentioned below in this readme.md only
 
 200.16.100.0/24
 Development : 32 hosts
+
 Finance: 27 hosts
+
 HR: 10 hosts
+
 
 for the largest network, we must atleast have 32 hosts
 
