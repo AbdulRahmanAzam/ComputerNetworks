@@ -21,6 +21,7 @@ for the largest network, we must atleast have 32 hosts
 #### new subnet mask
 /24 + 2 = /26
 
+```
 #### Development: 
 Network: 200.16.100.0
 Range: 1-62
@@ -35,6 +36,6 @@ Broadcast: 127
 Network: 200.16.100.128
 Range: 129-190
 Broadcast: 191
-
+```
 
 <img width="658" height="743" alt="image" src="https://github.com/user-attachments/assets/770ddcb2-c518-4f4a-a096-cab4640316f9" />
