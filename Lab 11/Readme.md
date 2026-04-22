@@ -25,8 +25,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
 ```
 # Question 2:
+<img width="900" height="1600" alt="WhatsApp Image 2026-04-23 at 00 44 46" src="https://github.com/user-attachments/assets/1a155f86-691e-489f-8e0c-f157f0efe2e8" />
+
+
+
+
 <img width="1909" height="918" alt="image" src="https://github.com/user-attachments/assets/a3ffc4f7-4480-4a67-9f1f-87b29b048689" />
 
 
