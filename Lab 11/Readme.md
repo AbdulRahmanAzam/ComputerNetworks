@@ -15,10 +15,10 @@
 
 <img width="1705" height="782" alt="image" src="https://github.com/user-attachments/assets/8496abae-94b0-4122-bbdd-59bc4e93773c" />
 
+```
 
 
-
-
+```
 # Question 2:
 <img width="1909" height="918" alt="image" src="https://github.com/user-attachments/assets/a3ffc4f7-4480-4a67-9f1f-87b29b048689" />
 
