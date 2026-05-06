@@ -38,4 +38,12 @@
 <img width="872" height="664" alt="image" src="https://github.com/user-attachments/assets/07fe6eb6-0177-45f9-b596-771908fbf699" />
 
 
-![Uploading image.png…]()
+<img width="1560" height="659" alt="image" src="https://github.com/user-attachments/assets/24c8375f-0d00-472f-b5f0-66b8c6e19e1f" />
+
+
+
+# Q2)
+1. The browser sent 2 HTTP GET request. It is in packet 388 and 422.
+2. The response is in packet 411
+3. Status code: 200 OK
+4. 2 TCP segments were needed to carry the HTTP response containing the Bill of Rights text.
